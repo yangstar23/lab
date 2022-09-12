@@ -1,5 +1,5 @@
 # lab
-> 欢迎来到我的实验室:happy:
+> 欢迎来到我的实验室:star2:
 >
 > 在这里将会存放我的一些项目:night_with_stars:
 
